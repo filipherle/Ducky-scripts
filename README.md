@@ -1,8 +1,9 @@
 # Ducky-scripts
 
 #### A collection of ducky scripts personally tested by me
-For more check out Quack!
+For more Rubber ducky stuff check out Quack!
 Many more coming soon! If you have any to contribute to the list, contact me below!
+All of these have been tested on Windows 10 and 7.
 
 
 ### Issues/Contact
