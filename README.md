@@ -9,11 +9,3 @@ All of these have been tested on Windows 10 and 7.
 ### Issues/Contact
 
 If you have any issues regarding the source code of any of these scripts, as well as any errors you have encountered, please contact me at 
-
-    Xmpp: toxic-ig@exploit.im
-    Email: toxicnull@gmail.com
-    Instagram: @_t0x1c
-    Twitter: @toxicnull
-    Kik: toxicnull
-    Discord: #9073
-
